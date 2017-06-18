@@ -1,0 +1,34 @@
+.caption{
+  color: white;
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+.download{
+  font-size: 16px;
+  color:aquamarine;
+  text-decoration: underline;
+  text-align: center;
+}
+.background{
+  background-color: black;
+
+}
+p.subhead,.appstore{
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+}
+.description{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+.video{
+  display: block;
+margin: 0 auto;
+}
